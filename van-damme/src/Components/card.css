@@ -1,0 +1,45 @@
+.card-container{
+    width:100%;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+}
+.image-container img{
+    overflow: hidden;
+    height: 950px;
+
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(253, 253, 255);
+}
+img {
+    width: 100%;
+    
+}
+button{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(11, 1, 70);
+    padding-left:5%;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(103, 104, 103);
+}
+
+body{
+    background-color: black;
+}
+h4{
+    color: bisque;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(253, 253, 255);
+}
